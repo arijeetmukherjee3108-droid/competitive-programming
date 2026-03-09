@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
+int main(){
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
@@ -42,7 +42,7 @@ int main() {
                     cout << (n-3)/2 + 1 << endl;
                     for(int i = 1; i <= (n-3)/2; i++){
                         cout << 2 << " "; }
-                    cout << 3 << endl; }}
+                    cout << 3 << endl; }}}
     }
     return 0;
 }
